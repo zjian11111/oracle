@@ -1,7 +1,7 @@
 # oracle
 教材中的查询语句
-查询1
-![image]()
+查询1:  
+![image](https://github.com/wangmingran9527/oracle/blob/master/TEST1/1.png)
 SELECT d.department_name，count（e.job_id）as“部门总人数”，【】
 avg（e.salary）as“平均工资
 from hr.departments d，hr.employees e
